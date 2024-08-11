@@ -1,0 +1,40 @@
+/*
+color-primario: #E7E3F1;
+color-secundario: #2E2C39;
+color-terciario: #AFA3D5;
+color-cuarto: #6E8880
+*/
+h1{
+    color:#E7E3F1;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2E2C39;
+}
+h3{
+    color: #2E2C39;
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color:#E7E3F1;
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.barranav{
+    color:#2E2C39;
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    color:#2E2C39;
+}
+header{
+    background-color:#AFA3D5;
+}
+.parrafo1{
+    color:#2E2C39; 
+}
+.piedepag{
+    background-color: #2E2C39;
+    color: #E7E3F1;
+}
+label{
+    color:#2E2C39;
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
